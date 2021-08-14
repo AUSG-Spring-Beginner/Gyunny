@@ -8,4 +8,5 @@ class AusgApplication
 
 fun main(args: Array<String>) {
     runApplication<AusgApplication>(*args)
+
 }
